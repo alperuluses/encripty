@@ -10,6 +10,8 @@ Then, characters are written into a grid, whose rows and columns have the follow
 
 <h4>Example:</h4>
 
+```s = if man was meant to stay on the ground god would have given us roots```
+
 ![resim](https://user-images.githubusercontent.com/55516860/156225084-cf138240-3688-45fc-b9a7-636579643abc.png)
 
 <p>After removing spaces, the string is 54 characters long. √54 is between 7 and 8, so it is written in the form of a grid with 7 rows and 8 columns. </p>
